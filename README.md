@@ -1,7 +1,3 @@
-> moved to: https://codeberg.org/sho/Geist-for-Vencord
-
----
-
 # Comic Sans for Vencord
 
 Changes the default theme of discord to use Geist (with a few look-alike fallbacks).
