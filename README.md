@@ -15,7 +15,7 @@ Get [Vencord](https://vencord.dev/).
 #### Either:
 
 Copy and place this link below on a single line under "Online Themes: <br />
-`https://raw.githubusercontent.com/bjsho/Geist-for-Vencord/refs/heads/main/Geist.css`
+`https://raw.githubusercontent.com/shozed/discord-geist-font/refs/heads/main/Geist.css`
 
 **OR**
 
